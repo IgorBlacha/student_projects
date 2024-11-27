@@ -13,4 +13,15 @@ int main(){
 		cout<<endl;
 	}
 	return 0;
+int gracz1:
+int gracz2:
+void plansza()
+{
+	cout << " " tab[0][0]<<"|"<< tab[0][1]
+
+return 0;
+
+
 }
+
+
